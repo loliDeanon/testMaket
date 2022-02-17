@@ -1,11 +1,4 @@
-.linkid{
-    position: absolute;
-    width: 30px;
-    height: 30px;
-    left: calc(50% - 30px/2 + 100px);
-    top: calc(50% - 30px/2 - 25px);
+/* Шрифты используемые в макете */
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;900&display=swap');
 
-    /* Dark */
-
-    background: #21243D;
-}
+/* Стили */
